@@ -1,0 +1,1 @@
+#this script is to check whether website is up or down
